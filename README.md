@@ -21,6 +21,9 @@ If y represents the dependent variable and x the independent variable, this rela
 
 # Program :
 ```
+# DEVELOPED BY : S.ARTHI
+# REG.NO : 212225220011
+
 import math
 import matplotlib.pyplot as plt
 x=[ int(i) for i in input().split()]
